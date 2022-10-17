@@ -1,2 +1,2 @@
-# UxPortfolio
-My Ux/Ui Portfolio hope you like it !
+# front-end-portfolio
+front-end-project
