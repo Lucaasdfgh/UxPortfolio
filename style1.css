@@ -143,3 +143,33 @@
   .des-text {
     font-size: 64px;
   }
+
+  .div-empathize {
+    background-color: #F7BF46;
+    width: 250px;
+    height: 50%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 48px;
+    color: black;
+    border-radius: 10px;
+    font-weight: 100;
+  }
+
+  .desing-thinking-phases {
+    display: flex;
+  }
+
+  .div-define {
+    background-color: white;
+    border: 1px solid #F7BF46;
+    width: 250px;
+    height: 50%;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 48px;
+    color: black;
+    font-weight: 100;
+  }
