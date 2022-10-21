@@ -135,3 +135,11 @@
   body {
     background-color: white;
   }
+
+  span {
+    color: #F7BF46;
+  }
+
+  .des-text {
+    font-size: 64px;
+  }
